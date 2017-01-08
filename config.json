@@ -1,0 +1,8 @@
+{
+    "server_address": "127.0.0.1",
+    "server_port":1989,
+    "password":"changepassword",
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": false
+}
